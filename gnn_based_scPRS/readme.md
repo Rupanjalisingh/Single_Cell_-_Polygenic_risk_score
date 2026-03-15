@@ -233,7 +233,7 @@ External tools:
 
 ---
 
-# 📁 Repository Structure
+# 📁 Pipeline Structure
 
 ```
 gnn_based_scPRS
