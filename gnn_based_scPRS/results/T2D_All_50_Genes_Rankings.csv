@@ -1,0 +1,51 @@
+,Rank,priority_score,gwas_score,specificity_score,enrichment_score,cell_type
+FAM227A,1,0.875,1.0,1.0,0.5,Alpha cell
+MYH9,2,0.875,1.0,1.0,0.5,Perivascular cell
+PARVB,3,0.875,1.0,1.0,0.5,Macrophage
+TST,4,0.875,1.0,1.0,0.5,TFF1+ ductal cell
+C22orf42,5,0.875,1.0,1.0,0.5,Alpha cell
+SLC5A4,6,0.875,1.0,1.0,0.5,Macrophage
+MPST,7,0.875,1.0,1.0,0.5,Endothelial cell
+GALR3,8,0.875,1.0,1.0,0.5,TFF1+ ductal cell
+PIK3IP1,9,0.875,1.0,1.0,0.5,TFF1+ ductal cell
+MICALL1,10,0.875,1.0,1.0,0.5,Macrophage
+PLXNB2,11,0.875,1.0,1.0,0.5,TFF1+ ductal cell
+ARVCF,12,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+IL2RB,13,0.875,1.0,1.0,0.5,Fibroblast
+FAM83F,14,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+TSPO,15,0.875,1.0,1.0,0.5,Endothelial cell
+CSF2RB,16,0.875,1.0,1.0,0.5,Macrophage
+SLC5A4-AS1,17,0.875,1.0,1.0,0.5,Macrophage
+GGA1,18,0.875,1.0,1.0,0.5,Fibroblast
+KIAA0930,19,0.875,1.0,1.0,0.5,Fibroblast
+RASD2,20,0.875,1.0,1.0,0.5,Delta cell
+SLC5A1,21,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+RGL4,22,0.875,1.0,1.0,0.5,Endothelial cell
+CABP7,23,0.875,1.0,1.0,0.5,Alpha cell
+BAIAP2L2,24,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+ARHGAP8,25,0.875,1.0,1.0,0.5,Endothelial cell
+CLDN5,26,0.875,1.0,1.0,0.5,Macrophage
+GGT1,27,0.875,1.0,1.0,0.5,Endothelial cell
+LGALS2,28,0.875,1.0,1.0,0.5,Glial cell
+TMPRSS6,29,0.875,1.0,1.0,0.5,Beta cell
+SGSM1,30,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+TBC1D22A,31,0.875,1.0,1.0,0.5,Fibroblast
+TYMP,32,0.875,1.0,1.0,0.5,Fibroblast
+LIF,33,0.875,1.0,1.0,0.5,Delta cell
+KREMEN1,34,0.875,1.0,1.0,0.5,Perivascular cell
+GNAZ,35,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+DENND6B,36,0.875,1.0,1.0,0.5,Macrophage
+LINC01589,37,0.875,1.0,1.0,0.5,Endothelial cell
+TPTEP2-CSNK1E,38,0.875,1.0,1.0,0.5,Macrophage
+CACNA1I,39,0.875,1.0,1.0,0.5,Alpha cell
+LARGE1,40,0.875,1.0,1.0,0.5,Delta cell
+SEC14L2,41,0.875,1.0,1.0,0.5,Acniar cell 
+NCF4,42,0.875,1.0,1.0,0.5,Fibroblast
+MEI1,43,0.875,1.0,1.0,0.5,Fibroblast
+SOX10,44,0.875,1.0,1.0,0.5,Acniar cell 
+SEZ6L,45,0.875,1.0,1.0,0.5,TUBA1A+ ductal cell
+CLTCL1,46,0.875,1.0,1.0,0.5,Alpha cell
+LRRC74B,47,0.875,1.0,1.0,0.5,Alpha cell
+WNT7B,48,0.875,1.0,1.0,0.5,TFF1+ ductal cell
+PARVG,49,0.875,1.0,1.0,0.5,Fibroblast
+RBX1,50,0.875,1.0,1.0,0.5,Macrophage

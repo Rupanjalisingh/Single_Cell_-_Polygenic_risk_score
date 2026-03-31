@@ -1,0 +1,204 @@
+================================================================================
+CELLEX: Cell-Type Expression Specificity Report
+================================================================================
+
+Analysis Date: 2026-03-24 23:13:20.313136
+Input File: deg_filtered.csv
+
+Dataset Summary:
+--------------------------------------------------------------------------------
+Total Genes: 9015
+Cell Types: 13
+Cell Types Analyzed: Acniar cell , Alpha cell, Beta cell, Delta cell, EndoMT cell, Endothelial cell, Fibroblast, Glial cell, Macrophage, PP cell, Perivascular cell, TFF1+ ductal cell, TUBA1A+ ductal cell
+
+Specificity Statistics by Cell Type:
+--------------------------------------------------------------------------------
+Cell Type            Mean       Median     Max        High Spec Genes
+--------------------------------------------------------------------------------
+Acniar cell          0.0536     0.0000     1.0000     497            
+Alpha cell           0.2083     0.0000     1.0000     1887           
+Beta cell            0.0427     0.0000     1.0000     397            
+Delta cell           0.0987     0.0000     1.0000     964            
+EndoMT cell          0.0281     0.0000     1.0000     275            
+Endothelial cell     0.1144     0.0000     1.0000     1118           
+Fibroblast           0.1491     0.0000     1.0000     1386           
+Glial cell           0.0678     0.0000     1.0000     618            
+Macrophage           0.1744     0.0000     1.0000     1643           
+PP cell              0.0336     0.0000     1.0000     317            
+Perivascular cell    0.1010     0.0000     1.0000     989            
+TFF1+ ductal cell    0.0717     0.0000     1.0000     674            
+TUBA1A+ ductal cell  0.1249     0.0000     1.0000     1138           
+
+================================================================================
+Top 10 Marker Genes per Cell Type:
+================================================================================
+
+
+Acniar cell :
+--------------------------------------------------------------------------------
+  1. ABCB4                (Specificity: 1.0000)
+  2. ABHD4                (Specificity: 1.0000)
+  3. AC005096.1           (Specificity: 1.0000)
+  4. AC008056.1           (Specificity: 1.0000)
+  5. AC008494.3           (Specificity: 1.0000)
+  6. AC008780.2           (Specificity: 1.0000)
+  7. AC009276.1           (Specificity: 1.0000)
+  8. AC009720.1           (Specificity: 1.0000)
+  9. AC010395.1           (Specificity: 1.0000)
+  10. AC010457.1           (Specificity: 1.0000)
+
+Alpha cell:
+--------------------------------------------------------------------------------
+  1. ABCA10               (Specificity: 1.0000)
+  2. ABCA13               (Specificity: 1.0000)
+  3. ABCA3                (Specificity: 1.0000)
+  4. ABCA9-AS1            (Specificity: 1.0000)
+  5. ABCC8                (Specificity: 1.0000)
+  6. ABCD2                (Specificity: 1.0000)
+  7. ABCG5                (Specificity: 1.0000)
+  8. AC001226.2           (Specificity: 1.0000)
+  9. AC002429.2           (Specificity: 1.0000)
+  10. AC002454.1           (Specificity: 1.0000)
+
+Beta cell:
+--------------------------------------------------------------------------------
+  1. AC004882.1           (Specificity: 1.0000)
+  2. AC005329.1           (Specificity: 1.0000)
+  3. AC006042.4           (Specificity: 1.0000)
+  4. AC007656.1           (Specificity: 1.0000)
+  5. AC008808.1           (Specificity: 1.0000)
+  6. AC009414.2           (Specificity: 1.0000)
+  7. AC010478.1           (Specificity: 1.0000)
+  8. AC011306.1           (Specificity: 1.0000)
+  9. AC012087.1           (Specificity: 1.0000)
+  10. AC012360.2           (Specificity: 1.0000)
+
+Delta cell:
+--------------------------------------------------------------------------------
+  1. ABCC9                (Specificity: 1.0000)
+  2. AC004257.1           (Specificity: 1.0000)
+  3. AC005358.1           (Specificity: 1.0000)
+  4. AC005759.1           (Specificity: 1.0000)
+  5. AC007319.1           (Specificity: 1.0000)
+  6. AC007406.3           (Specificity: 1.0000)
+  7. AC007952.4           (Specificity: 1.0000)
+  8. AC008250.1           (Specificity: 1.0000)
+  9. AC009269.2           (Specificity: 1.0000)
+  10. AC011365.1           (Specificity: 1.0000)
+
+EndoMT cell:
+--------------------------------------------------------------------------------
+  1. A4GALT               (Specificity: 1.0000)
+  2. AC005523.1           (Specificity: 1.0000)
+  3. AC005746.2           (Specificity: 1.0000)
+  4. AC005921.2           (Specificity: 1.0000)
+  5. AC007285.2           (Specificity: 1.0000)
+  6. AC007513.1           (Specificity: 1.0000)
+  7. AC007743.1           (Specificity: 1.0000)
+  8. AC008878.3           (Specificity: 1.0000)
+  9. AC009021.1           (Specificity: 1.0000)
+  10. AC010524.1           (Specificity: 1.0000)
+
+Endothelial cell:
+--------------------------------------------------------------------------------
+  1. ABTB2                (Specificity: 1.0000)
+  2. AC000061.1           (Specificity: 1.0000)
+  3. AC002066.1           (Specificity: 1.0000)
+  4. AC002076.1           (Specificity: 1.0000)
+  5. AC004784.1           (Specificity: 1.0000)
+  6. AC007422.2           (Specificity: 1.0000)
+  7. AC009041.2           (Specificity: 1.0000)
+  8. AC009133.1           (Specificity: 1.0000)
+  9. AC013275.1           (Specificity: 1.0000)
+  10. AC015712.1           (Specificity: 1.0000)
+
+Fibroblast:
+--------------------------------------------------------------------------------
+  1. A2M                  (Specificity: 1.0000)
+  2. AATBC                (Specificity: 1.0000)
+  3. ABCA1                (Specificity: 1.0000)
+  4. ABCC5                (Specificity: 1.0000)
+  5. ABHD12               (Specificity: 1.0000)
+  6. ABHD6                (Specificity: 1.0000)
+  7. ABR                  (Specificity: 1.0000)
+  8. ABRACL               (Specificity: 1.0000)
+  9. AC002091.1           (Specificity: 1.0000)
+  10. AC004687.1           (Specificity: 1.0000)
+
+Glial cell:
+--------------------------------------------------------------------------------
+  1. AADAC                (Specificity: 1.0000)
+  2. AC004982.1           (Specificity: 1.0000)
+  3. AC004982.2           (Specificity: 1.0000)
+  4. AC007207.2           (Specificity: 1.0000)
+  5. AC008397.1           (Specificity: 1.0000)
+  6. AC008556.1           (Specificity: 1.0000)
+  7. AC010329.1           (Specificity: 1.0000)
+  8. AC011139.1           (Specificity: 1.0000)
+  9. AC011298.1           (Specificity: 1.0000)
+  10. AC011468.3           (Specificity: 1.0000)
+
+Macrophage:
+--------------------------------------------------------------------------------
+  1. ABCD4                (Specificity: 1.0000)
+  2. ABCG1                (Specificity: 1.0000)
+  3. ABHD17A              (Specificity: 1.0000)
+  4. ABI3                 (Specificity: 1.0000)
+  5. ABL1                 (Specificity: 1.0000)
+  6. ABL2                 (Specificity: 1.0000)
+  7. ABO                  (Specificity: 1.0000)
+  8. ABT1                 (Specificity: 1.0000)
+  9. ABTB1                (Specificity: 1.0000)
+  10. AC002070.1           (Specificity: 1.0000)
+
+PP cell:
+--------------------------------------------------------------------------------
+  1. ABCA5                (Specificity: 1.0000)
+  2. AC004012.1           (Specificity: 1.0000)
+  3. AC004540.1           (Specificity: 1.0000)
+  4. AC004540.2           (Specificity: 1.0000)
+  5. AC004947.1           (Specificity: 1.0000)
+  6. AC005021.1           (Specificity: 1.0000)
+  7. AC005856.1           (Specificity: 1.0000)
+  8. AC007375.3           (Specificity: 1.0000)
+  9. AC008637.1           (Specificity: 1.0000)
+  10. AC008878.1           (Specificity: 1.0000)
+
+Perivascular cell:
+--------------------------------------------------------------------------------
+  1. ABCA6                (Specificity: 1.0000)
+  2. ABCA9                (Specificity: 1.0000)
+  3. ABCC1                (Specificity: 1.0000)
+  4. ABCC4                (Specificity: 1.0000)
+  5. ABI3BP               (Specificity: 1.0000)
+  6. AC002074.1           (Specificity: 1.0000)
+  7. AC004160.2           (Specificity: 1.0000)
+  8. AC004232.2           (Specificity: 1.0000)
+  9. AC005291.1           (Specificity: 1.0000)
+  10. AC005291.2           (Specificity: 1.0000)
+
+TFF1+ ductal cell:
+--------------------------------------------------------------------------------
+  1. ABCA12               (Specificity: 1.0000)
+  2. ABCC3                (Specificity: 1.0000)
+  3. ABLIM3               (Specificity: 1.0000)
+  4. AC003101.1           (Specificity: 1.0000)
+  5. AC003688.1           (Specificity: 1.0000)
+  6. AC006441.1           (Specificity: 1.0000)
+  7. AC007100.1           (Specificity: 1.0000)
+  8. AC007639.1           (Specificity: 1.0000)
+  9. AC010260.1           (Specificity: 1.0000)
+  10. AC012593.1           (Specificity: 1.0000)
+
+TUBA1A+ ductal cell:
+--------------------------------------------------------------------------------
+  1. A1CF                 (Specificity: 1.0000)
+  2. AATK                 (Specificity: 1.0000)
+  3. ABCB1                (Specificity: 1.0000)
+  4. ABCB10               (Specificity: 1.0000)
+  5. ABCD3                (Specificity: 1.0000)
+  6. ABCG2                (Specificity: 1.0000)
+  7. ABHD15               (Specificity: 1.0000)
+  8. ABHD18               (Specificity: 1.0000)
+  9. ABI2                 (Specificity: 1.0000)
+  10. ABLIM1               (Specificity: 1.0000)

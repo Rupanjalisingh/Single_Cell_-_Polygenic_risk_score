@@ -1,0 +1,51 @@
+	priority_score	gwas_score	specificity_score	cell_type	enrichment_score	enrichment_p
+FAM227A	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+FAM83F	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+TMPRSS6	0.875	1.0	1.0	Beta cell	0.5	1e-10
+SGSM1	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+TBC1D22A	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+TYMP	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+LIF	0.875	1.0	1.0	Delta cell	0.5	1e-10
+KREMEN1	0.875	1.0	1.0	Perivascular cell	0.5	1e-10
+GNAZ	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+DENND6B	0.875	1.0	1.0	Macrophage	0.5	1e-10
+LINC01589	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+TPTEP2-CSNK1E	0.875	1.0	1.0	Macrophage	0.5	1e-10
+CACNA1I	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+LARGE1	0.875	1.0	1.0	Delta cell	0.5	1e-10
+SEC14L2	0.875	1.0	1.0	Acniar cell 	0.5	1e-10
+NCF4	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+MEI1	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+SOX10	0.875	1.0	1.0	Acniar cell 	0.5	1e-10
+SEZ6L	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+CLTCL1	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+LRRC74B	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+WNT7B	0.875	1.0	1.0	TFF1+ ductal cell	0.5	1e-10
+PARVG	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+LGALS2	0.875	1.0	1.0	Glial cell	0.5	1e-10
+GGT1	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+CLDN5	0.875	1.0	1.0	Macrophage	0.5	1e-10
+ARHGAP8	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+PARVB	0.875	1.0	1.0	Macrophage	0.5	1e-10
+TST	0.875	1.0	1.0	TFF1+ ductal cell	0.5	1e-10
+C22orf42	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+SLC5A4	0.875	1.0	1.0	Macrophage	0.5	1e-10
+MPST	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+GALR3	0.875	1.0	1.0	TFF1+ ductal cell	0.5	1e-10
+PIK3IP1	0.875	1.0	1.0	TFF1+ ductal cell	0.5	1e-10
+MICALL1	0.875	1.0	1.0	Macrophage	0.5	1e-10
+PLXNB2	0.875	1.0	1.0	TFF1+ ductal cell	0.5	1e-10
+ARVCF	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+MYH9	0.875	1.0	1.0	Perivascular cell	0.5	1e-10
+IL2RB	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+TSPO	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+CSF2RB	0.875	1.0	1.0	Macrophage	0.5	1e-10
+SLC5A4-AS1	0.875	1.0	1.0	Macrophage	0.5	1e-10
+GGA1	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+KIAA0930	0.875	1.0	1.0	Fibroblast	0.5	1e-10
+RASD2	0.875	1.0	1.0	Delta cell	0.5	1e-10
+SLC5A1	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+RGL4	0.875	1.0	1.0	Endothelial cell	0.5	1e-10
+CABP7	0.875	1.0	1.0	Alpha cell	0.5	1e-10
+BAIAP2L2	0.875	1.0	1.0	TUBA1A+ ductal cell	0.5	1e-10
+RBX1	0.875	1.0	1.0	Macrophage	0.5	1e-10

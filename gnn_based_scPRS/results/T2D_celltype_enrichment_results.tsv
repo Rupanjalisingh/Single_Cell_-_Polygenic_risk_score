@@ -1,0 +1,14 @@
+	n_sig_genes	n_shared_genes	enrichment_p	log10_p
+Acniar cell 	0.0	161.0	1e-10	10.0
+Alpha cell	0.0	161.0	1e-10	10.0
+Beta cell	0.0	161.0	1e-10	10.0
+Delta cell	0.0	161.0	1e-10	10.0
+EndoMT cell	0.0	161.0	1e-10	10.0
+Endothelial cell	0.0	161.0	1e-10	10.0
+Fibroblast	0.0	161.0	1e-10	10.0
+Glial cell	0.0	161.0	1e-10	10.0
+Macrophage	0.0	41.0	1e-10	10.0
+PP cell	0.0	161.0	1e-10	10.0
+Perivascular cell	0.0	161.0	1e-10	10.0
+TFF1+ ductal cell	0.0	161.0	1e-10	10.0
+TUBA1A+ ductal cell	0.0	161.0	1e-10	10.0
