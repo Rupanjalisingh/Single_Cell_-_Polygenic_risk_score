@@ -163,7 +163,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact the author at [your email].
+For questions or issues, please open a GitHub issue or contact the author at rupanjalisingh10@gmail.com.
 
 ## Related Resources
 
