@@ -152,7 +152,7 @@ If you use this repository, please cite:
 @software{singh2024scprs,
   title={Single Cell Polygenic Risk Score: Integrating GWAS and scRNA-seq for Disease Gene Discovery},
   author={Singh, Rupanjali},
-  year={2024},
+  year={2026},
   url={https://github.com/rupanjalisingh/Single_cell_polygenic_risk_score}
 }
 ```
@@ -174,5 +174,5 @@ For questions or issues, please open a GitHub issue or contact the author at rup
 
 ---
 
-**Last Updated**: April 2024  
+**Last Updated**: April 2026  
 **Status**: Active Development
