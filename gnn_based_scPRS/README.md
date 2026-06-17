@@ -149,7 +149,7 @@ python scripts/cell_type_expression_specificity.py --h5ad data/type_2_diabetes_p
 
 If you use this repository, please cite:
 ```
-@software{singh2024scprs,
+@software{singh2026scprs,
   title={Single Cell Polygenic Risk Score: Integrating GWAS and scRNA-seq for Disease Gene Discovery},
   author={Singh, Rupanjali},
   year={2026},
