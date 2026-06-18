@@ -1,21 +1,50 @@
 MIT License
 
-Copyright (c) 2024 Rupanjali Singh
+Copyright (c) 2026 Rupanjali Singh
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository, including all source code, documentation,
+figures, workflows, analyses, model architectures, generated
+outputs, and associated materials, is the sole intellectual
+property and original work of the author.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Author:
+Rupanjali Singh
+M.Tech, Bioscience and Bioengineering
+Indian Institute of Technology Jodhpur
+
+Permission is hereby granted to view, download, and reference
+this work strictly for academic, educational, and research
+purposes.
+
+The following activities are prohibited without prior written
+permission from the author:
+
+• Commercial use of any part of this repository.
+• Redistribution of the source code.
+• Republishing figures, tables, workflows, or results.
+• Claiming authorship of any portion of this work.
+• Creating derivative works intended for publication.
+• Using the work in commercial AI products.
+
+Publication Notice
+
+This project is intended for scholarly publication and academic
+research dissemination.
+
+Any use of the methods, results, figures, workflows, code,
+datasets, or derived materials in journal articles,
+conference papers, dissertations, theses, reports, patents,
+or other publications must provide appropriate citation and
+acknowledgement to the author.
+
+No warranty is provided. The software is distributed "as is"
+without any guarantees regarding performance, correctness,
+clinical applicability, or fitness for a particular purpose.
+
+This project is for research purposes only and must not be used
+for clinical diagnosis or medical decision making.
+
+For permissions, collaborations, or licensing inquiries,
+please contact the author directly.
